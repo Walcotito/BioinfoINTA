@@ -1,0 +1,13 @@
+Frutas$Vitamina_B12$Vitamina_C$Fibra
+Frambuesa$42$63$234
+Frambuesa$13$42$23433
+Frambuesa$13$43$1231
+Frambuesa$13$5$2342
+Frutilla$45$64$345
+Frutilla$34$22$23435
+Frutilla$234$11$35654
+Frutilla$245$91$123234
+Tomate$345$231$3452$
+Tomate$20000$23000$22000
+Tomate$2000$12000$34000
+Tomate$241$34$4000
